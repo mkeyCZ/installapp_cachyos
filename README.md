@@ -58,19 +58,19 @@ Poté spusťte skript podle vašich potřeb:
 - **Aktualizace systému:**
 
   ```bash
-  sudo ./update-install.sh --update
+  sudo ./install_app.sh --update
   ```
 
 - **Instalace všech balíčků:**
 
   ```bash
-  sudo ./update-install.sh --install-all
+  sudo ./install_app.sh --install-all
   ```
 
 - **Interaktivní výběr balíčků:**
 
   ```bash
-  sudo ./update-install.sh --install
+  sudo ./install_app.sh --install
   ```
 
 ### 3. Poznámky

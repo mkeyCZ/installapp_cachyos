@@ -44,13 +44,13 @@ Tento skript je určen pro uživatele Arch Linuxu a jeho derivátů. Automatizuj
 Klonujte tento repozitář do vašeho místního systému:
 
 ```bash
-git clone https://github.com/mkeyCZ/linux-update-install-script.git
-cd linux-update-install-script
+git clone https://github.com/mkeyCZ/installapp_cachyos.git
+cd installapp_cachyos
 ```
 
 ### 2. Spuštění skriptu
 
-Nejprve se ujistěte, že máte nainstalován `paru`. Pokud není nainstalován, nainstalujte ho podle návodu na [paru GitHubu](https://github.com/Morganamilo/paru).
+Nejprve se ujistěte, že máte nainstalován `paru`. Pokud není nainstalován, nainstalujte ho podle návodu na [LinuxDoma](https://forum.linuxdoma.cz/t/ako-pouzivat-paru-na-arch-linux-distribuciach/55).
 
 Poté spusťte skript podle vašich potřeb:
 
@@ -77,13 +77,13 @@ Poté spusťte skript podle vašich potřeb:
 - Skript vyžaduje spuštění s právy superuživatele (`sudo`) pro operace s `pacman`.
 - `paru` se používá k instalaci AUR balíčků a tyto operace se provádějí jako běžný uživatel.
 
-## Contributing
+## Chyby
 
-Pokud máte návrhy na vylepšení nebo najdete chyby, neváhejte vytvořit pull request nebo otevřít issue.
+Pokud máte návrhy na vylepšení nebo najdete chyby, neváhejte mě kontaktovat. Budu rád za poskytnutý log chyby.
 
 ## Autor
 
-Operace byly provedeny s využitím skriptu vytvořeného [Mates](https://forum.linuxdoma.cz/u/mates/activity). Další informace a projekty naleznete na:
+Další informace a projekty naleznete na:
 
 - Fórum: [Linuxdoma](https://forum.linuxdoma.cz/u/mates/activity)
 - Wiki: [Wiki](https://wiki.matejserver.cz)

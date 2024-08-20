@@ -1,8 +1,3 @@
-Zde je návrh na `README.md` soubor, který můžete použít na GitHubu pro váš projekt. Tento soubor obsahuje popis projektu, seznam aplikací, návod k použití, a také vhodnou grafiku.
-
-### `README.md`
-
-```markdown
 # Linux Update & Install Script
 
 ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)

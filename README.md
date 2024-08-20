@@ -1,6 +1,6 @@
 # Linux Update & Install Script
 
-![Linux doma]([LinuxDoma](https://forum.linuxdoma.sk/uploads/default/original/1X/31a5d004a75873ce6dfdd07333ce730b6cc7f013.png))
+![Linux Doma Logo](https://forum.linuxdoma.sk/uploads/default/original/1X/31a5d004a75873ce6dfdd07333ce730b6cc7f013.png)
 
 ## Popis
 

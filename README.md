@@ -1,4 +1,5 @@
-# Linux Update & Install Script
+# Update a install skript pro Archlinux a jeho deviráty
+*Autor zkoušel tento skript spustit na linux distrubuci [CachyOS](https://cachyos.org/)*
 
 ![Linux Doma Logo](https://forum.linuxdoma.sk/uploads/default/original/1X/31a5d004a75873ce6dfdd07333ce730b6cc7f013.png)
 
